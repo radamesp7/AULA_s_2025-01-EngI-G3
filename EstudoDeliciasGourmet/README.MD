@@ -32,4 +32,12 @@ historia
 Joao
 gerente de compras
 ingredientes
+alimentos
+fornecedores
+preços
+custos
+Maria
+supervisora de estoque 
+
+
 
